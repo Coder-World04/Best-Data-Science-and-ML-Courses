@@ -1,7 +1,7 @@
 # Best-Data-Science-and-ML-Courses
 This repository contains best courses you MUST take to skyrocket your Data Science and Machine Learning Journey
 
-# 1. [Complete Data Scientist](https://bit.ly/3wiIo8u):
+# 1. [Complete Data Scientist](https://bit.ly/3wiIo8u)
 
 [Link to the course](https://bit.ly/3wiIo8u)
 
@@ -15,7 +15,7 @@ Deploy solutions to the cloud, enabling scalable and accessible data application
 
 Master the essential skills needed to excel in the field of data science.
 
-# 2. [Complete Data Engineering](https://bit.ly/3A9oVs5):
+# 2. [Complete Data Engineering](https://bit.ly/3A9oVs5)
 
 [Link to the course](https://bit.ly/3A9oVs5)
 
@@ -29,7 +29,7 @@ Gain expertise in handling and working with massive datasets efficiently.
 
 Become a proficient data engineer equipped with in-demand skills for building robust data infrastructures.
 
-# 3. [Complete Machine Learning Engineer](https://bit.ly/3Tir8ub):
+# 3. [Complete Machine Learning Engineer](https://bit.ly/3Tir8ub)
 
 [Link to the course](https://bit.ly/3Tir8ub)
 
@@ -43,7 +43,7 @@ Learn to implement cutting-edge algorithms and architectures for superior machin
 
 Equip yourself with the skills required to excel as a machine learning engineer.
 
-# 4. [Complete Natural Language Processing](https://bit.ly/3T7J8qY):
+# 4. [Complete Natural Language Processing](https://bit.ly/3T7J8qY)
 
 [Link to the course](https://bit.ly/3T7J8qY)
 
@@ -57,7 +57,7 @@ Understand the complexities of language and apply NLP techniques to solve challe
 
 Unlock the power of language through the application of natural language processing.
 
-# 5. [Complete Deep Learning](https://bit.ly/3T5ppIo):
+# 5. [Complete Deep Learning](https://bit.ly/3T5ppIo)
 
 [Link to the course](https://bit.ly/3T5ppIo)
 
@@ -71,7 +71,7 @@ Learn about different architectures and techniques for building robust deep lear
 
 Become proficient in utilizing deep learning to tackle complex problems and drive innovation.
 
-# 6. [Complete Data Product Manager](https://bit.ly/3QGUtwi):
+# 6. [Complete Data Product Manager](https://bit.ly/3QGUtwi)
 
 [Link to the course](https://bit.ly/3QGUtwi)
 
