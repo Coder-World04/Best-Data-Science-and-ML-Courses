@@ -9,7 +9,7 @@ Run data pipelines efficiently to extract, transform, and load data.
 
 Design and conduct experiments to uncover valuable insights and drive data-based decision making.
 
-Build powerful recommendation systems that personalize user experiences and increase engagement.
+Build powerful recommendation systems that personalize user experiences and increase engagement .
 
 Deploy solutions to the cloud, enabling scalable and accessible data applications.
 
