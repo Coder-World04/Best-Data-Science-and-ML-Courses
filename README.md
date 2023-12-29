@@ -1,6 +1,14 @@
 # Best-Data-Science-and-ML-Courses
 This repository contains best courses you MUST take to skyrocket your Data Science and Machine Learning Journey
 
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Part 1 - How to solve Any ML System Design Problem](https://open.substack.com/pub/naina0405/p/part-1-how-to-solve-any-ml-system?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+--------
+
 # 1. [Complete Data Scientist](https://bit.ly/3wiIo8u)
 
 [Link to the course](https://bit.ly/3wiIo8u)
